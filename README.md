@@ -79,15 +79,5 @@ Hybrid crowd-risk system combining CSRNet density estimation with classical CV, 
 **Agrolite — Edge-Based Pollination Prediction** *(repo not yet public)*
 Edge-AI system using ESP32 sensor data and a LightGBM-to-TensorFlow-Lite distilled model for offline, on-device agricultural decision support (>98% edge accuracy, ~0.03ms latency). Patent filed.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=satwii&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satwii&layout=compact&hide_border=true" width="35%" />
-</p>
-
----
 
 <p align="center"><i>Open to AI/ML, backend, and full-stack roles — let's connect!</i></p>
